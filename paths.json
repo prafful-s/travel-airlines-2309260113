@@ -1,15 +1,14 @@
 {
   "mappings": [
-    "/content/we-healthcare/language-masters/en:/",
-    "/content/we-healthcare/language-masters/en/:/en/",
-    "/content/we-healthcare/configuration:/.helix/config.json",
-    "/content/we-healthcare/metadata:/metadata.json",
-    "/content/we-healthcare/redirects:/redirects.json",
-    "/content/we-healthcare/graphql:/graphql.json",
-    "/content/we-healthcare/placeholders:/placeholders.json"
+    "/content/swyip/sunphuquocairways/language-masters/en:/",
+    "/content/swyip/sunphuquocairways/language-masters/en/:/en/",
+    "/content/swyip/sunphuquocairways/configuration:/.helix/config.json",
+    "/content/swyip/sunphuquocairways/metadata:/metadata.json",
+    "/content/swyip/sunphuquocairways/redirects:/redirects.json",
+    "/content/swyip/sunphuquocairways/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/we-healthcare/",
-    "/content/dam/we-healthcare/"
+    "/content/swyip/sunphuquocairways/",
+    "/content/dam/swyip/sunphuquocairways/"
   ]
 }
